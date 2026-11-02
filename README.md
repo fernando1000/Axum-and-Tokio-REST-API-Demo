@@ -3,6 +3,8 @@
 This project is a simple demonstration of how to create a REST API using
 [Axum](https://github.com/tokio-rs/axum) and [Tokio](https://tokio.rs/).
 
+The Youtube related video is https://youtu.be/cgej2h-GeoQ
+
 It was created for a YouTube tutorial aimed at people who have never worked
 with Axum before. The example implements only the `/users` endpoint to
 introduce the basic concepts of routing, JSON serialization, request handling,
